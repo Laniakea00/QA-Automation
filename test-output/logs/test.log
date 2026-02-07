@@ -6006,3 +6006,66 @@ Session ID: a848a1e375ae9fdd7ef2cd9d1c770f366b23129b
 2026-01-24 14:22:16 INFO  [CheckoutExcelTest] TEST END: checkout_success_from_excel => SKIP
 2026-01-24 14:22:16 INFO  [CheckoutExcelTest] TEST END: checkout_success_from_excel => SKIP
 2026-01-24 14:22:16 INFO  [CheckoutExcelTest] WebDriver teardown: quit()
+2026-02-02 15:42:46 INFO  [DriverFactory] create WebDriver
+2026-02-02 15:42:46 INFO  [DriverFactory] BrowserStack URL: https://alanberikzhan_kD4xCr:zPSEz4MznceNg9Epj146@hub-cloud.browserstack.com/wd/hub
+2026-02-02 15:43:06 INFO  [CheckoutExcelTest] WebDriver setup: browser=Chrome, headless=false, window=1400x900
+2026-02-02 15:43:06 INFO  [CheckoutExcelTest] TEST START: checkout_success_from_excel
+2026-02-02 15:43:13 INFO  [LoginPage] Open Login page
+2026-02-02 15:43:13 INFO  [BasePage] Navigate to URL: https://www.saucedemo.com/
+2026-02-02 15:43:13 INFO  [LoginPage] Login attempt with username=standard_user
+2026-02-02 15:43:21 INFO  [ProductsPage] Read Products page title
+2026-02-02 15:43:22 INFO  [ProductsPage] Add item to cart: Sauce Labs Backpack
+2026-02-02 15:43:25 INFO  [ProductsPage] Item added подтверждён (button changed to Remove)
+2026-02-02 15:43:25 INFO  [ProductsPage] Open cart
+2026-02-02 15:43:26 INFO  [CartPage] Click Checkout (go to checkout)
+2026-02-02 15:43:27 INFO  [CheckoutInfoPage] Fill customer info: firstName=Alan, lastName=Berikzhan, zip=010000
+2026-02-02 15:44:03 INFO  [CheckoutInfoPage] Click Continue on Checkout Info
+2026-02-02 15:44:06 INFO  [CheckoutOverviewPage] Click Finish on Overview
+2026-02-02 15:44:07 INFO  [CheckoutCompletePage] Read completion header
+2026-02-02 15:44:08 INFO  [CheckoutExcelTest] TEST END: checkout_success_from_excel => PASS
+2026-02-02 15:44:08 INFO  [CheckoutExcelTest] TEST START: checkout_success_from_excel
+2026-02-02 15:44:10 INFO  [LoginPage] Open Login page
+2026-02-02 15:44:10 INFO  [BasePage] Navigate to URL: https://www.saucedemo.com/
+2026-02-02 15:44:10 INFO  [LoginPage] Login attempt with username=standard_user
+2026-02-02 15:44:14 INFO  [ProductsPage] Read Products page title
+2026-02-02 15:44:16 INFO  [ProductsPage] Add item to cart: Sauce Labs Bike Light
+2026-02-02 15:44:18 INFO  [ProductsPage] Item added подтверждён (button changed to Remove)
+2026-02-02 15:44:18 INFO  [ProductsPage] Open cart
+2026-02-02 15:44:19 INFO  [CartPage] Click Checkout (go to checkout)
+2026-02-02 15:44:20 INFO  [CheckoutInfoPage] Fill customer info: firstName=Rostislav, lastName=Prettser, zip=020000
+2026-02-02 15:44:25 INFO  [CheckoutInfoPage] Click Continue on Checkout Info
+2026-02-02 15:44:26 INFO  [CheckoutOverviewPage] Click Finish on Overview
+2026-02-02 15:44:28 INFO  [CheckoutCompletePage] Read completion header
+2026-02-02 15:44:28 INFO  [CheckoutExcelTest] TEST END: checkout_success_from_excel => PASS
+2026-02-02 15:44:28 INFO  [CheckoutExcelTest] TEST START: checkout_success_from_excel
+2026-02-02 15:44:30 INFO  [LoginPage] Open Login page
+2026-02-02 15:44:30 INFO  [BasePage] Navigate to URL: https://www.saucedemo.com/
+2026-02-02 15:44:30 INFO  [LoginPage] Login attempt with username=standard_user
+2026-02-02 15:44:35 INFO  [ProductsPage] Read Products page title
+2026-02-02 16:33:01 INFO  [LoginPage] Open Login page
+2026-02-02 16:33:01 INFO  [BasePage] Navigate to URL: https://www.saucedemo.com/
+2026-02-02 16:33:02 INFO  [LoginPage] Open Login page
+2026-02-02 16:33:02 INFO  [BasePage] Navigate to URL: https://www.saucedemo.com/
+2026-02-02 16:35:42 INFO  [LoginPage] Open Login page
+2026-02-02 16:35:42 INFO  [BasePage] Navigate to URL: https://www.saucedemo.com/
+2026-02-02 16:35:43 INFO  [LoginPage] Login attempt with username=standard_user
+2026-02-02 16:35:44 INFO  [ProductsPage] Read Products page title
+2026-02-02 16:35:44 INFO  [ProductsPage] Add item to cart: Sauce Labs Backpack
+2026-02-02 16:35:44 INFO  [ProductsPage] Item added подтверждён (button changed to Remove)
+2026-02-02 16:35:44 INFO  [ProductsPage] Open cart
+2026-02-02 16:35:44 INFO  [CartPage] Click Checkout (go to checkout)
+2026-02-02 16:35:44 INFO  [CheckoutInfoPage] Fill customer info: firstName=Alan, lastName=Berikzhan, zip=010000
+2026-02-02 16:35:45 INFO  [CheckoutInfoPage] Click Continue on Checkout Info
+2026-02-02 16:35:45 INFO  [CheckoutOverviewPage] Click Finish on Overview
+2026-02-02 16:35:45 INFO  [CheckoutCompletePage] Read completion header
+2026-02-02 16:35:46 INFO  [LoginPage] Open Login page
+2026-02-02 16:35:46 INFO  [BasePage] Navigate to URL: https://www.saucedemo.com/
+2026-02-02 16:35:51 INFO  [LoginPage] Login attempt with username=standard_user
+2026-02-02 16:35:52 INFO  [ProductsPage] Read Products page title
+2026-02-02 16:35:52 INFO  [ProductsPage] Add item to cart: Sauce Labs Backpack
+2026-02-02 16:35:52 INFO  [ProductsPage] Item added подтверждён (button changed to Remove)
+2026-02-02 16:35:52 INFO  [ProductsPage] Open cart
+2026-02-02 16:35:52 INFO  [CartPage] Click Checkout (go to checkout)
+2026-02-02 16:35:52 INFO  [CheckoutInfoPage] Fill customer info: firstName=, lastName=Test, zip=010000
+2026-02-02 16:35:53 INFO  [CheckoutInfoPage] Click Continue on Checkout Info
+2026-02-02 16:35:53 INFO  [CheckoutInfoPage] Read checkout info error message

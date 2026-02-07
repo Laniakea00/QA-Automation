@@ -30,6 +30,11 @@ dependencies {
 
     // Apache POI
     testImplementation 'org.apache.poi:poi-ooxml:5.5.1'
+
+    // Cucumber
+    testImplementation 'io.cucumber:cucumber-java:7.20.1'
+    testImplementation 'io.cucumber:cucumber-testng:7.20.1'
+    testImplementation 'io.cucumber:cucumber-picocontainer:7.20.1'
 }
 
 test {
